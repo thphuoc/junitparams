@@ -1,0 +1,1 @@
+<table width='600'><tr><td align='left'><font size='60'>JUnitParams moved to <a href='https://github.com/Pragmatists/junitparams'>github</a></font></td><td align='right' valign='center'><a href='http://pragmatists.pl'><img src='http://pragmatists.pl/misc/logo-kwadrat.gif' align='middle' /></a></td></tr></table>
